@@ -17,3 +17,13 @@
     --transition: 0.3s ease;
 
 }
+body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
