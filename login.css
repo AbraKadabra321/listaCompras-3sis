@@ -85,6 +85,7 @@ button {
     background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(8, 8, 114, 1) 100%, rgba(9, 9, 121, 1) 54%, rgba(0, 0, 0, 1) 94%);
     transition: var(--transition);
     cursor: pointer;
+    color: #ffffff;
 }
 
 button:hover {
